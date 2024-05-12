@@ -6,6 +6,7 @@ Experiment with the TypeScript Detect-Collisions library
 
 Many thanks ❤️ go to
 
+- Jacek Pietal and the GitHub contributors for the [Detect-Collisions](https://github.com/Prozi/detect-collisions) library
 - [JetBrains](https://www.jetbrains.com/?from=PROJECT-NAME) who provide an [Open Source License](https://www.jetbrains.com/community/opensource/) for this project
 
 ## Developer Guide
