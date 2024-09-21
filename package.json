@@ -37,7 +37,7 @@
     "@types/watch": "^1.0.6",
     "detect-collisions": "^9.5.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "reload": "^3.2.1",
     "watch": "^1.0.2"
   }
